@@ -1,2 +1,2 @@
 # shell_basic
-Here i'll post some basic shell scripts i'll learn along the way
+Just starterd learning Shell script properly, Here i'll post some basic shell scripts i'll learn along the way
